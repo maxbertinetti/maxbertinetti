@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Massimiliano Bertinetti's Github stats](https://github-readme-stats.vercel.app/api?username=maxbertinetti&show_icons=true&theme=radical)](https://github.com/maxbertinetti/github-readme-stats)
+
 I started my programmer journey in 1987 with a Commodore Amiga 500.
 It was a fun computer to program (and for playing).
 
