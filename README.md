@@ -13,6 +13,6 @@ I'm very passionate about Open Source programming languages.
 
 - 🔭 I’m currently working on Salesforce Commerce Cloud plattform at Visiondirect.
 
-- 📖 I'm currently going deep on Elixir language and ecosystem
+- 📖 I'm currently going deep on Javascript Ecosystem
 
 - 📫 How to reach me: [Twitter](https://twitter.com/maxbertinetti), [LinkedIN](https://www.linkedin.com/in/massimiliano-bertinetti/)
