@@ -16,7 +16,7 @@ I'm very passionate about Open Source programming languages.
 
 - :book:  I'm currently going deep on Javascript ecosystem.
 
-- :rocket:  Launching Eclecticlly company - The eclectical ecommerce solution company.  
+- :rocket:  Launching Eclecticlly company - The eclectical solutions company.  
 
 - :construction:  Working on a composable, modern ecommerce plattform.
 
