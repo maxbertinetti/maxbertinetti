@@ -10,13 +10,12 @@ Then I continued to program (only for passion) for years, doing other activities
 Finally I started programming professionally from 2016.
 
 I'm very passionate about Open Source programming languages.
-- ⚫️  Wannabe Crystal Evangelist
 
 - :wrench:  I’m currently working on Salesforce Commerce Cloud plattform at Visiondirect.
 
-- :book:  I'm currently going deep on Javascript ecosystem.
+- :book:  I'm currently going deep on Kotlin ecosystem.
 
-- :rocket:  Launching Eclecticlly company - The eclectical solutions company.  
+- :rocket:  Launching Eclecticlly - The eclectical web solutions company.  
 
 - :construction:  Working on a composable, modern ecommerce plattform.
 
