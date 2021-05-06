@@ -13,10 +13,10 @@ I'm very passionate about Open Source programming languages.
 
 - :wrench:  I’m currently working on Salesforce Commerce Cloud plattform at Visiondirect.
 
-- :book:  I'm currently going deep on Kotlin ecosystem.
+- :book:  I'm currently going deep on Javascript ecosystem.
 
 - :rocket:  Launching Eclecticlly - The eclectical web solutions company.  
 
-- :construction:  Working on a composable, modern ecommerce plattform.
+- :construction:  Working on a composable, modern website and ecommerce plattforms.
 
 - :postbox:  How to reach me: [Twitter](https://twitter.com/maxbertinetti), [LinkedIN](https://www.linkedin.com/in/maxbertinetti/)
