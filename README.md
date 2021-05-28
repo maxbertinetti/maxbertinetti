@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Massimiliano Bertinetti's Github stats](https://github-readme-stats.vercel.app/api?username=maxbertinetti&show_icons=true&theme=radical)](https://github.com/maxbertinetti/github-readme-stats)
+[![Eclecticlly's Github stats](https://github-readme-stats.vercel.app/api?username=eclecticlly&show_icons=true&theme=radical)](https://github.com/eclecticlly/github-readme-stats)
 
 I started my programmer journey in 1987 with a Commodore Amiga 500.
 It was a fun computer to program (and for playing).
@@ -11,12 +11,12 @@ Finally I started programming professionally from 2016.
 
 I'm very passionate about Open Source programming languages.
 
-- :wrench:  I’m currently working on Salesforce Commerce Cloud plattform at Visiondirect.
+- :wrench:  I’m currently working on Salesforce Commerce Cloud plattform at BORN Group.
 
 - :book:  I'm currently going deep on Javascript ecosystem.
 
-- :rocket:  Launching Eclecticlly - The eclectical web solutions company.  
+- :rocket:  Launching Eclecticlly - The eclectical web solutions one dev company.  
 
 - :construction:  Working on a composable, modern website and ecommerce plattforms.
 
-- :postbox:  How to reach me: [Twitter](https://twitter.com/maxbertinetti), [LinkedIN](https://www.linkedin.com/in/maxbertinetti/)
+- :postbox:  How to reach me: [Twitter](https://twitter.com/eclecticlly), [LinkedIN](https://www.linkedin.com/in/maxbertinetti/)
