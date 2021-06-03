@@ -13,9 +13,9 @@ I'm very passionate about Open Source programming languages.
 
 - :wrench:  I’m currently working on Salesforce Commerce Cloud plattform at BORN Group.
 
-- :book:  I'm currently going deep on Javascript ecosystem.
+- :book:  I'm currently going deep on Go language ecosystem.
 
-- :rocket:  Launching Eclecticlly - The eclectical web solutions one dev company.  
+- :rocket:  Launching Eclecticlly - The eclectical one dev company for web solutions.  
 
 - :construction:  Working on a composable, modern website and ecommerce plattforms.
 
